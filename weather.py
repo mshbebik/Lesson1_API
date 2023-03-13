@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 
-
+  
 
 def wether():
     city = input("Введіть назву міста:")
